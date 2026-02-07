@@ -1,7 +1,13 @@
-# odin-recipes
+# Odin-recipes
 
-#THIS IS FIRST WEBSITE PROJECT
 
-# It is a simple html website no css or javascript to found
+It is a simple html website
 
-#let us see how it goes
+This was created after completing the introductory course for the odin project
+
+There will be a main pages and three sub pages for three different ingredients:
+Lasagna
+Beef Soup
+Aglio E olio: Easy meal to make and tastes pretty good
+
+May add a meal for pancakes later
